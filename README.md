@@ -34,7 +34,8 @@ Eragondevs Dynamic Color Clock is a premium, visually stunning digital clock wid
    Navigate to `http://localhost:5173`.
 
 ## Screenshots
-![Eragondevs Clock Preview](images/demo.png)
+![Eragondevs Clock Preview - 1](images/image1.png)
+![Eragondevs Clock Preview - 2](images/image2.png)
 
 ## Developer
 Developed by **Eragondevs** - Crafting precision with perfection.
